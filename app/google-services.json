@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932503954530",
+    "project_id": "guessthesong1-e2183",
+    "storage_bucket": "guessthesong1-e2183.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932503954530:android:3a0617f570629219661d3b",
+        "android_client_info": {
+          "package_name": "es.uva.inf5g.psm.guessthesong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0G1hbbnxm29Pa9ZCcx559htLGwgCC2B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
